@@ -6,7 +6,7 @@
 laravelの最新バージョンであると、laravel MixからViteへ移行されているため修正する必要あり　　
 https://readouble.com/laravel/9.x/ja/vite.html
 
-laravel Mixへと修正　　
+laravel Mixへと修正  
 https://github.com/laravel/vite-plugin/blob/main/UPGRADE.md#migrating-from-vite-to-laravel-mix
 
 そこからさらに以下のエラーが発生
